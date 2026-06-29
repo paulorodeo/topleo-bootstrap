@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# Cursor
+.cursor/
+
+# JetBrains
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Node
+node_modules/
+
+# Bun
+.bun/
+
+# Deno
+.deno/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PHP
+vendor/
+
+# Rust
+target/
+
+# Go
+bin/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# SSH
+*.pem
+*.key
+
+# Terraform
+.terraform/
+
+# Backup
+backup/
