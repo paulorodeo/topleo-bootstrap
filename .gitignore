@@ -61,3 +61,24 @@ bin/
 
 # Backup
 backup/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Secrets
+secrets/
+
+# Keys
+*.pem
+*.key
+*.crt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

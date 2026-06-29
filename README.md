@@ -1,21 +1,26 @@
 # Topleo Bootstrap
 
-Infrastructure as Code para todas as máquinas da Topleo.
+Bootstrap completo para desenvolvimento moderno.
 
-Este projeto instala automaticamente um ambiente completo para:
+## Objetivos
 
-- Bluefin
-- Fedora
-- Ubuntu
-- Contabo VPS
+- Workstation para IA
+- Desenvolvimento Web
 - Payload CMS
 - Ghost CMS
-- Node.js
-- IA
-- Docker/Podman
-- Desenvolvimento Web
-- Rádio Digital
+- Docker / Podman
+- DevOps
 - Automações
+- Infraestrutura
+
+## Roadmap
+
+- Foundation
+- Languages
+- Containers
+- AI
+- CMS
+- Deploy
 
 by Paulo Rodeo
 mail@paulo.rodeo

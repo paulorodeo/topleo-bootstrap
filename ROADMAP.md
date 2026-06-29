@@ -1,37 +1,42 @@
 # Roadmap
 
 ## Foundation
+
 - SSH
 - Git
+- Cursor
 - Mise
 - Starship
 
 ## Languages
+
 - Node
 - Bun
 - Deno
-- Rust
 - Go
+- Rust
 - PHP
 - Java
 
-## Containers
-- Podman
-- Docker CLI
-
 ## AI
+
 - Ollama
-- Continue
 - Claude
 - OpenAI
+- Gemini
+- MCP
 
 ## CMS
+
 - Payload
 - Ghost
 
-## Infrastructure
+## Deploy
+
 - Caddy
 - Traefik
-- PostgreSQL
-- Redis
-- MinIO
+- Docker
+- Podman
+
+# by Paulo Rodeo
+# mail@paulo.rodeo
